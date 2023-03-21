@@ -16,3 +16,5 @@ INSERT INTO favoritebooks VALUES (1, "Behind Her Eyes", 9.5);
 INSERT into favoritebooks VALUES (2, "The Cellar", 6.5);
 INSERT into favoritebooks VALUES (3, "City of Fallen Angels", 8);
 SELECT * FROM favoritebooks;
+
+**STEP THREE I finished the project on Khan Academy but decided to continue adding books so the link to the list is at the top of this read me**
