@@ -1,7 +1,7 @@
-# Khan-Academy-Booklist-Project-
+# H1 Khan-Academy-Booklist-Project-
 Khan Academy is asking me to create a booklist in SQL
 
-it is asking me to create a table with a booklist of my favorite books these are the steps I took to get there
+*it is asking me to create a table with a booklist of my favorite books these are the steps I took to get there*
 
 **STEP ONE creating the table**
 CREATE TABLE favoritebooks (
